@@ -1,5 +1,7 @@
 package com.spring.ex;
 
 public class Insert {
-  // insert ÇÏÇÏÇÏ
+	// insert í•˜í•˜í•˜
+	// insert í•˜í•˜í•˜
+	// insert í•˜í•˜í•˜
 }
